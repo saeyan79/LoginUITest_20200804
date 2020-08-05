@@ -50,10 +50,15 @@
         android:hint="비밀번호 입력"
         android:inputType="textPassword"/>
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="자동 로그인1" />
+
     <RadioButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text=" 자동 로그인" />
+        android:text=" 자동 로그인2_모양확인하려고 두개 써 봄" />
 
     <TextView
         android:layout_width="wrap_content"
